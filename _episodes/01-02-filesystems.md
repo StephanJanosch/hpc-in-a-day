@@ -169,7 +169,7 @@ We refer to it using a slash character `/` on its own;
 this is the leading slash in `/home/lola`.
 
 Inside that directory are several other directories:
-`usr` (stands for Unix System Resources, and contains important files and folders needed by the operating system)
+`usr` (stands for Unix System Resources, and contains important files and folders needed by the operating system),
 `bin` (some built-in programs are stored here),
 `data` (for miscellaneous data files),
 `home` (where users' personal directories are located),
