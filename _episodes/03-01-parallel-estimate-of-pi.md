@@ -33,7 +33,7 @@ Pi = ---
 The implementation of this algorithm using `total_count` random number pairs in a nutshell is given in the below program:
 
 ~~~
-import numpy
+import numpy as np
 
 np.random.seed(2017)
 
